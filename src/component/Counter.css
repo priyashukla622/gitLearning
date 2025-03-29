@@ -1,0 +1,19 @@
+.counter{
+    text-align: center;
+    margin:auto;
+    margin-top: 100px;
+    height: 250px;
+    padding: 40px;
+    width: 40%;
+    background-color:whitesmoke ;
+}
+button{
+    margin: 7px;
+    padding: 7px;
+    border-radius:5px;
+    width: 85px;
+    border: none;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
